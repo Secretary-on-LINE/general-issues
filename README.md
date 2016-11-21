@@ -13,6 +13,6 @@ TODO: 書く
 v1.0までは速度優先で雑な感じで。
 
 1. masterからfeature branchを切る。
-2. featureが完成したらmasterに向けたプルリクを出す。もしくは直pushする。
+2. featureが完成したらmasterに向けたプルリクを出す。もしくは直pushする。セルフマージもOK。
 3. マージされ、ストーリーを満たしたら https://github.com/oshiete-karen/oshiete-karen/issues/1 をチェックする。
 4. 適当なタイミングでmasterをデプロイする。
